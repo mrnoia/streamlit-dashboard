@@ -9,7 +9,6 @@ pandas = "*"
 plost = "*"
 matplotlib = "*"
 altair = "*"
-klib = "*"
 
 [dev-packages]
 
